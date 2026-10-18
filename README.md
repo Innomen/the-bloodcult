@@ -2,6 +2,8 @@
 
 Brandon M. Sergent · ORCID 0009-0001-4165-5463
 
+[Zenodo](https://zenodo.org/records/23458023) · [DOI](https://doi.org/10.5281/zenodo.23458023) · [Source repository](https://github.com/Innomen/the-bloodcult)
+
 [Read the paper](paper.pdf) · [Markdown source](paper.md)
 
 ## Abstract
